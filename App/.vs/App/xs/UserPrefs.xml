@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{65274728-14B5-4F96-BA1D-A10E595FECDD}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.App PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="App/MainPage.xaml">
+    <Files>
+      <File FileName="App/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="App/MainPage.xaml" Line="10" Column="38" />
+      <File FileName="App/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="App/obj/Debug/net7.0-android/Resource.designer.cs" Line="1038" Column="21" />
+      <File FileName="App/Resources/Styles/Colors.xaml" Line="1" Column="1" />
+      <File FileName="App/Platforms/Android/Resources/values/colors.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="App" expanded="True">
+            <Node name="App" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True">
+                  <Node name="Resources" expanded="True">
+                    <Node name="values" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="Images" expanded="True" />
+                <Node name="Styles" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MultiItemStartupConfigurations />
+</Properties>
